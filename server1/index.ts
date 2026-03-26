@@ -1,4 +1,3 @@
-import express from "express";
 import { SERVERS } from "../ports";
 
 const app = express();
